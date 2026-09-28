@@ -14,3 +14,14 @@
 </a>
 
 </p>
+
+
+<div align="center">
+
+<a href="https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R" target="_blank">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=121212&height=160&section=header&text=%E2%96%B6%20NOW%20PLAYING&fontSize=18&fontColor=1DB954&fontAlign=50&fontAlignY=25&desc=Light%20My%20Fire%20%7C%20The%20Doors&descSize=24&descFontColor=FFFFFF&descAlign=50&descAlignY=55">
+
+</a>
+
+</div>
