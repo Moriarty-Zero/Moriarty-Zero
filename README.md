@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="[https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90](https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&section=header&reversal=false&text=Hi%F0%9F%91%8B%2C+I%27m+Oleksii&textBg=false&fontSize=65&fontAlign=50&fontAlignY=43&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)" />
