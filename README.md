@@ -1,5 +1,6 @@
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=timeGradient&section=header&reversal=false&text=Hi%F0%9F%91%8B%2C+I%27m+Oleksii&textBg=false&fontSize=50&fontAlign=50&fontAlignY=34&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" />
-
+</p>
 
 <p align="center">
 
