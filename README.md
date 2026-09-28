@@ -5,14 +5,14 @@ social media
 <p align="center">
 LinkedIn
 <a href="http://www.linkedin.com/in/oleksii-klymchuk-mori">
-  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c724d772-a7f2-409b-9435-721bf14fd6df" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c724d772-a7f2-409b-9435-721bf14fd6df" />
 </a>
 X
 <a href="https://x.com/Atom_Destroy">
-  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/79fdd576-b553-479d-a648-0e4602b28c38" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/79fdd576-b553-479d-a648-0e4602b28c38" />
 </a>
 Instagram
 <a href="https://www.instagram.com/mori_9842/">
-  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/5fa6cb45-dbac-4210-b0bf-462214e1c8ec" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5fa6cb45-dbac-4210-b0bf-462214e1c8ec" />
 </a>
 </p>
